@@ -2,7 +2,7 @@
 
 Direct Link:
 ======
-https://pops08.github.io/Joshua-H-WorkDay-Scheduler/
+https://pops08.github.io/Joshua-H-WorkDayScheduler/
 
 Author:
 ======
